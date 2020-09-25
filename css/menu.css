@@ -1,0 +1,24 @@
+
+header a{
+	color: Green;
+	font-size: 50px;
+	    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+header a:hover
+{
+	color: 	 #8bd410;
+	text-decoration: none;
+}
+div .clock{
+float: right;
+}
+.clock
+{
+	color: white;
+}
+
+
+nav ul li{
+	margin-right: 110px;
+}

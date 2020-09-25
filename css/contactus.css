@@ -1,0 +1,37 @@
+.item b {
+	font-size: 30px;
+	color: white;
+	border-bottom: 5px solid #666;
+		font-family: "Times New Roman", Times, serif;
+
+}
+.futsal{
+	color: #000;
+}
+.address{
+	color: #666;
+}
+body
+{
+	background-image: url("../img/back2.jpg");
+	background-repeat: no-repeat;
+}
+.item{
+	margin-left: 25%;
+	margin-right: 40%;
+}
+.item-2{
+	border: 1px solid white;
+	background-color: white;
+	padding: 50px;
+	opacity: 0.8;
+	border-radius: 3px;
+	cursor: pointer;
+}
+#list li a{
+text-decoration: none;
+color:black;
+}
+#list li a:hover{
+	color:#999;
+}

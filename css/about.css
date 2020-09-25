@@ -1,0 +1,26 @@
+body{
+	background-image: url('../img/full1.jpg');
+	background-size: cover;
+}
+article{
+	font-size: 18px;
+	color:  black;/*#dacccc;*/
+		margin: 0px;
+	text-align: center;
+}
+.item b {
+	font-size: 30px;
+	color: white;
+	border-bottom: 8px solid #666;
+	margin: 25%;
+	font-family: "Times New Roman", Times, serif;
+}
+.about{
+	border: 1px solid white;
+	background-color: white;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-radius: 3px;
+	padding: 50px;
+	opacity: 0.8;
+}

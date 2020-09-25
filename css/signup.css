@@ -1,0 +1,49 @@
+body{
+	background-image: url("../img/sign.jpg");
+		background-repeat: no-repeat;
+background-size: cover;
+}
+section{
+	margin: 10%;
+	margin-left: 40%;
+    margin-right:40%;
+	border: 5px solid gray;
+}
+input[type=text]{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=password]{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=number]{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=email]{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit]{
+  border-radius: 10px;
+}
+label{
+  color: red;
+  font-size: 20px;
+}
+
+.b{
+  color: red;
+}
+h2{
+  color: white;
+}

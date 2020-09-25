@@ -1,0 +1,29 @@
+body{
+	background-image: url("../img/sign.jpg");
+		background-repeat: no-repeat;
+background-size: cover;
+}
+
+table{
+	margin: 11%;
+	margin-left: 41%;
+	border: 1px solid;
+	opacity: 1;
+}
+.b{
+	color: black;
+	font-size: 1em;
+}
+.a{
+font-size: 20px;
+
+}
+a{
+	text-decoration: none;
+	font-size: 1.5em;
+	color:  #8bd410;
+		    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a:hover{
+	color:Green;
+}

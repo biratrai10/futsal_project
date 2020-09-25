@@ -1,0 +1,28 @@
+body{
+	background-image: url('../img/home2.jpg');
+	background-size: cover;
+}
+
+
+
+
+div.g {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+div.g:hover {
+    border: 1px solid #777;
+}
+
+div.g img {
+    width: 100%;
+    height: auto;
+}
+
+div.ord {
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
